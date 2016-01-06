@@ -1,5 +1,7 @@
 //Programa : ILuminacao e irrigacao frente casa 04/01/2016;
-//Autor : Leonardo Silva
+//Autor : Leonardo Silva de Sousa
+// IFPB-CG
+//email: leosdesousa@gmail.com
 //Carrega a biblioteca do RTC DS1307
 
 #include <DS1307.h>
