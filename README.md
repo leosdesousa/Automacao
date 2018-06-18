@@ -1,1 +1,1 @@
-# O projeto consiste Em automatizar o acionamento de Iluminação e irrigação de um pequeno canteiro utilizando o arduino, uma Shild relógio DS1307, o condigo controla o acionamento de suas portas digitais do arduino por meio de horários já definidos controlando os horários.
+Definir
